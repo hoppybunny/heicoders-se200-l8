@@ -4,8 +4,8 @@
 
 1. Clone the repo
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/hoppybunny/heicoders-se200-l7-prisma-intro.git
+cd heicoders-se200-l7-prisma-intro.git
 ```
 
 2. Replace the `.env` file with your local postgres connection in this format
