@@ -8,15 +8,17 @@
 
 ```
 DATABASE_URL="postgresql://YOUR_USERNAME:YOUR_PASSWORD@localhost:5432/YOUR_DATABASE_NAME?schema=public"
+
+3. Generate your auth secret from auth js (default file it reads from is `.env.local`)
 ```
 
-3. Install dependencies
+4. Install dependencies
 
 ```
 npm install
 ```
 
-4. start the local server
+5. start the local server
 
 ```
 npm run dev
